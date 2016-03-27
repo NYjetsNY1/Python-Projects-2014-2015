@@ -7,7 +7,7 @@
 # There is a bug in certain version's of Python that
 # the refresh rate and FPS cause the ball (Stu's head) to go through the flipper
 # and glitch up. There is nothing I can do about this.
-# I tried to change the sprites, and do oher things, but ultimately this bug is because
+# I tried to change the sprites, and do other things, but ultimately this bug is because
 # of Python and Pygame, and lack of refresh rate and low FPS.
 # The ball can also get caught in a corner. This is another bug I cannot actually do anything about.
 # I could make the game harder and more fun if I could improve the FPS
